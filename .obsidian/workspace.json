@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Collections/Important Topics.md",
+                "file": "Java/Collections/00. Important Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd68e9ba28f89b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Collections/01. Hierarhcy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da62fcd714780a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Collections/02. ArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Collections/Important Topics.md",
+                "file": "Java/Collections/02. ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Collections/Important Topics.md",
+                "file": "Java/Collections/02. ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Collections/Important Topics.md"
+                "file": "Java/Collections/02. ArrayList.md"
               }
             }
           }
@@ -158,12 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92d9861ebe75c7ad",
+  "active": "da62fcd714780a6b",
   "lastOpenFiles": [
+    "Java/Collections/01. Hierarhcy.md",
+    "Java/Collections/02. ArrayList.md",
+    "Java/images/Pasted image 20230322234121.png",
+    "Java/images",
+    "Java/images/Pasted image 20230322234042.png",
+    "Java/Collections/00. Important Topics.md",
     "Markdown and Obsidian/Learn Basics.md",
     "Markdown and Obsidian/test page link.md",
     "www.google.com.md",
-    "Java/Collections/Important Topics.md",
     "Markdown and Obsidian",
     "Java/Collections",
     "Java"
