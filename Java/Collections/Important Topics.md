@@ -1,4 +1,6 @@
-Java Collections are an essential part of the Java programming language, and understanding them is crucial for any Java developer. Here are some important topics to understand Java Collections:
+# Important Topics
+
+**Java Collections are an essential part of the Java programming language, and understanding them is crucial for any Java developer. Here are some important topics to understand Java Collections:**
 
 1.  Collections Framework: Java Collections Framework is a set of interfaces, classes, and algorithms that provide a standard way to store and manipulate groups of objects.
     

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown and Obsidian/Learn Basics.md",
+                "file": "Java/Collections/Important Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown and Obsidian/Learn Basics.md",
+                "file": "Java/Collections/Important Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown and Obsidian/Learn Basics.md",
+                "file": "Java/Collections/Important Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown and Obsidian/Learn Basics.md"
+                "file": "Java/Collections/Important Topics.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "92d9861ebe75c7ad",
   "lastOpenFiles": [
-    "Markdown and Obsidian/test page link.md",
     "Markdown and Obsidian/Learn Basics.md",
+    "Markdown and Obsidian/test page link.md",
     "www.google.com.md",
     "Java/Collections/Important Topics.md",
     "Markdown and Obsidian",
